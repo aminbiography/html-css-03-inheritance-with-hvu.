@@ -1,4 +1,4 @@
-# CSS Inheritance & SCSS Fundamentals    
+# CSS Inheritance & SCSS Fundamentals     
 
 **Original Source:** Harvard University  
 **Learning Platform:** edX  
